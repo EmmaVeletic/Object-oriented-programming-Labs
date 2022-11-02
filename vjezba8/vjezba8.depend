@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620906266 source:c:\users\lenovo\desktop\vjezba8\main.cpp
+	"vjezba8.h"
+
+1620906266 c:\users\lenovo\desktop\vjezba8\vjezba8.h
+	<iostream>
+

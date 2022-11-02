@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621530705 source:c:\users\lenovo\desktop\vjezba9_2zadatak\main.cpp
+	<iostream>
+
+1621513536 c:\users\lenovo\desktop\vjezba9_2zadatak\zadatak2.h
+
+1621513892 c:\users\lenovo\desktop\vjezba9_2zadatak\zadatak2.cpp
+	<algorithm>
+	<cctype>
+	<iostream>
+	<cstring>
+	<cstdio>
+

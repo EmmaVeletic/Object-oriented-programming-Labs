@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622127794 source:c:\users\lenovo\desktop\vjezba10\main.cpp
+	<iostream>
+	<string>
+	"vjezba10.h"
+	<fstream>
+
+1621705472 c:\users\lenovo\desktop\vjezba10\vjezba10.h
+	<string>
+	<fstream>
+	<time.h>
+	<chrono>
+	<ctime>
+

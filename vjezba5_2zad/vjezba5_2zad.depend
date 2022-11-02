@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1620478981 source:c:\users\lenovo\desktop\vjezba5_2zad\computerplayer.cpp
+	<iostream>
+	<list>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<string>
+	<random>
+	<cstring>
+	"ComputerPlayer.h"
+
+1620479012 c:\users\lenovo\desktop\vjezba5_2zad\computerplayer.h
+	"Player.h"
+
+1620479540 c:\users\lenovo\desktop\vjezba5_2zad\player.h
+
+1620479257 source:c:\users\lenovo\desktop\vjezba5_2zad\game.cpp
+	<iostream>
+	<list>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<string>
+	<random>
+	<cstring>
+	"Game.h"
+	"Player.h"
+	"ComputerPlayer.h"
+	"HumanPlayer.h"
+
+1620479174 c:\users\lenovo\desktop\vjezba5_2zad\game.h
+	"player.h"
+
+1620479792 c:\users\lenovo\desktop\vjezba5_2zad\humanplayer.h
+	"Player.h"
+
+1620478919 source:c:\users\lenovo\desktop\vjezba5_2zad\humanplayer.cpp
+	<iostream>
+	<list>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<string>
+	<random>
+	<cstring>
+	"HumanPlayer.h"
+
+1620479119 source:c:\users\lenovo\desktop\vjezba5_2zad\main.cpp
+	<iostream>
+	<list>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<string>
+	<random>
+	<cstring>
+	"Player.h"
+	"HumanPlayer.h"
+	"ComputerPlayer.h"
+	"Game.h"
+
+1620479044 source:c:\users\lenovo\desktop\vjezba5_2zad\player.cpp
+	<iostream>
+	<list>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<string>
+	<random>
+	<cstring>
+	"Player.h"
+

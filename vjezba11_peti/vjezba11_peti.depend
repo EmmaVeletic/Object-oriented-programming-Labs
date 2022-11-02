@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622641805 source:c:\users\lenovo\desktop\vjezba11_peti\main.cpp
+	"peti.h"
+
+1623526914 c:\users\lenovo\desktop\vjezba11_peti\peti.h
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<ctime>
+	<random>
+	<list>
+

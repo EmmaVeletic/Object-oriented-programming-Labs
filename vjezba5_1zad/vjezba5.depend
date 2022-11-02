@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1617492280 source:c:\users\lenovo\desktop\vjezba5\book.cpp
+	"book.h"
+	<iostream>
+	<cstring>
+
+1617492273 c:\users\lenovo\desktop\vjezba5\book.h
+	<string>
+
+1617485245 source:c:\users\lenovo\desktop\vjezba5\main.cpp
+	<iostream>
+	"book.h"
+	<cstring>
+	"ebook.h"
+	"hardcopybook.h"
+	"libraray.h"
+
+1617492469 c:\users\lenovo\desktop\vjezba5\ebook.h
+	<cstring>
+	"book.h"
+
+1617492469 source:c:\users\lenovo\desktop\vjezba5\ebook.cpp
+	"ebook.h"
+	<iostream>
+	<cstring>
+	"book.h"
+
+1617474297 source:c:\users\lenovo\desktop\vjezba5\hardcopybook.cpp
+	"hardcopybook.h"
+	<iostream>
+	<cstring>
+	"book.h"
+
+1617474297 c:\users\lenovo\desktop\vjezba5\hardcopybook.h
+	<cstring>
+	"book.h"
+
+1617485153 source:c:\users\lenovo\desktop\vjezba5\libraray.cpp
+	"libraray.h"
+	<iostream>
+	<string>
+	"book.h"
+	"ebook.h"
+	"hardcopybook.h"
+	<fstream>
+
+1617485169 c:\users\lenovo\desktop\vjezba5\libraray.h
+	"book.h"
+	"ebook.h"
+	"hardcopybook.h"
+

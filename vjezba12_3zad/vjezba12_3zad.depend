@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1623761437 source:c:\users\lenovo\desktop\vjezba12_3zad\main.cpp
+	"trecizad.hpp"
+
+1623761344 c:\users\lenovo\desktop\vjezba12_3zad\trecizad.hpp
+	<iostream>
+	<vector>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1623761416 source:c:\users\lenovo\desktop\vjezba12_3zad\trecizad.cpp
+	"trecizad.hpp"
+

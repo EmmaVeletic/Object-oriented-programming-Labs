@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1622582467 source:c:\users\lenovo\desktop\vjezba11_prvi_i_drugi\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<ctime>
+	<random>
+	<list>
+

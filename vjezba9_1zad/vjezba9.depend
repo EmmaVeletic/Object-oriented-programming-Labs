@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621516062 source:c:\users\lenovo\desktop\vjezba9_1zad\main.cpp
+	<algorithm>
+	<cctype>
+	<iostream>
+	<cstring>
+	<cstdio>
+

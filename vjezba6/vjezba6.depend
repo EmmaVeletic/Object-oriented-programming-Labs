@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620417487 source:c:\users\lenovo\desktop\vjezba6\vjezba6.cpp
+	"vjezba6.h"
+
+1620417542 c:\users\lenovo\desktop\vjezba6\vjezba6.h
+	<iostream>
+
+1620906367 source:c:\users\lenovo\desktop\projekti\oop-vjezbe\emmaus108-vjezbe\vjezba6\vjezba6.cpp
+	"vjezba6.h"
+
+1620906830 c:\users\lenovo\desktop\projekti\oop-vjezbe\emmaus108-vjezbe\vjezba6\vjezba6.h
+	<iostream>
+
